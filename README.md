@@ -38,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-<img align="right" alt="gif" src="https://github.com/hussaino03/hussaino03/blob/master/coding.gif?raw=true" width="380" height="250" />
+<img align="right" alt="gif" src="https://github.com/hussaino03/hussaino03/blob/master/coding(1).gif?raw=true" width="380" height="250" />
 
 ## 🤔 What I am Up To
 
