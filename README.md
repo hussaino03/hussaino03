@@ -61,4 +61,5 @@ You can reach me at the following platforms linked below!
 ## 💻 List Of Cool Things That Went Into The Construction Of This Profile:
 
 Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">Raymond Li</a>
+Coding Gif: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif">Abhishek Naidu</a>
 
