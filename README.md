@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/Introduction.gif" alt="👋 Hey! I'm Hussain Omer | https://hussaino.me/" title="👋 Hey! I'm Hussain Omer | https://hussaino.me"/>](https://www.hussaino.me/)
+[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/Introduction.gif" target="_blank" alt="👋 Hey! I'm Hussain Omer | https://hussaino.me/" title="👋 Hey! I'm Hussain Omer | https://hussaino.me"/>](https://www.hussaino.me/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hussaino03.hussaino03&color=b11226)
 
@@ -49,9 +49,9 @@
 ## 📫 Contact Me:
 You can reach me at the following platforms linked below!
 
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/linkedin.png" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/hussain-omer-551893203/)
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/instagram.svg" height="40em" align="center" alt="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" title="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](https://www.instagram.com/h.s.z_11/)
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/gmail.png" height="45em" align="center" alt="Email Hussain" title="Email Hussain"/>](mailto:m.hussainomer03@gmail.com)
+[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/linkedin.png" target="_blank" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/hussain-omer-551893203/)
+[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/instagram.svg" target="_blank" height="40em" align="center" alt="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" title="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](https://www.instagram.com/h.s.z_11/)
+[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/gmail.png" target="_blank" height="45em" align="center" alt="Email Hussain" title="Email Hussain"/>](mailto:m.hussainomer03@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -60,6 +60,7 @@ You can reach me at the following platforms linked below!
 
 ## 💻 List Of Cool Things That Went Into The Construction Of This Profile:
 
-Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">Raymond Li</a>
-Coding Gif: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif">Abhishek Naidu</a>
+Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif" target="_blank">Raymond Li</a>
+<br>
+Coding Gif: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" target="_blank">Abhishek Naidu</a>
 
