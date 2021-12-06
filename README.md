@@ -38,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-<img align="right" alt="gif" src="https://github.com/hussaino03/hussaino03/blob/master/coding(1).gif?raw=true" width="380" height="250" />
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="250" />
 
 ## 🤔 What I am Up To
 
@@ -57,3 +57,8 @@ You can reach me at the following platforms linked below!
 
 | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /></a> |
 | ------------- | ------------- |
+
+## 💻 List Of Cool Things That Went Into The Construction Of This Profile:
+
+Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">Raymond Li</a>
+
