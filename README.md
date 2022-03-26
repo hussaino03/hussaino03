@@ -5,15 +5,18 @@
 
 ## :book: About Me 
 
-``` 
-{ 
-  "name" : "Hussain Omer", 
-  "pronouns" : "He/Him", 
-  "school" : "University of Toronto", 
-  "program" : "Computer Science", 
-  "year" : "First Year Student", 
-  "goal" : "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World" 
- } 
+```javascript
+const Hussain = {
+	pronouns: "he" | "him",
+	school: "University of Toronto",
+	year: "First-year",
+	program: "Computer Science",
+	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
+	techCommunities: {
+		studentAmbassador: "Microsoft Learn Student Ambassador",
+	},
+	askMeAbout: ["Web Development", "Machine Learning"]
+}
 ```
 
 ## 🛠️ Languages and Tools
