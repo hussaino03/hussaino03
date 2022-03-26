@@ -61,6 +61,15 @@ You can reach me at the following platforms linked below!
 | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /></a> |
 | ------------- | ------------- |
 
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=hussaino03&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+  </a>
+</p>
+</details>
+
 ## 💻 List Of Cool Things That Went Into The Construction Of This Profile:
 
 Introduction Gif: <a href="https://github.com/Raymo111/Raymo111/blob/master/intro.gif">Raymond Li</a>
