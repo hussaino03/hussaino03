@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/Introduction.gif" alt="👋 Hey! I'm Hussain Omer | https://hussaino.me/" title="👋 Hey! I'm Hussain Omer | https://hussaino.me"/>](https://www.hussaino.me/)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hussaino03.hussaino03&color=b11226)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussaino03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
 
 ## :book: About Me 
