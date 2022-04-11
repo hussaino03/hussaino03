@@ -58,7 +58,7 @@ You can reach me at the following platforms linked below!
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=algolia&layout=compact" /></a> |
+| <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=algolia" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&theme=algolia&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <details align="center">
