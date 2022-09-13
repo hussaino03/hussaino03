@@ -11,6 +11,7 @@ const Hussain = {
 	school: "University of Toronto",
 	year: "First-year",
 	program: "Computer Science",
+	work: "Software Engineer Intern @ Photon Commerce | Prev Production Engineer Intern @ MLH Fellowship",
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
