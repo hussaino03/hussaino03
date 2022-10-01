@@ -7,7 +7,6 @@
 
 ```javascript
 const Hussain = {
-	pronouns: "he" | "him",
 	school: "University of Toronto",
 	year: "Second-year",
 	program: "Computer Science",
