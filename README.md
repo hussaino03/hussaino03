@@ -46,7 +46,7 @@ const Hussain = {
 
 ## 🤔 What I am Up To
 
-- 🔭 I'm currently working on a MERN application
+- 🔭 I'm currently working on a next.js application
 - 🌱 I'm currently learning Machine Learning and its applications
 - 👯 I'm Looking to collaborate with other developers to design meaningful projects
 
