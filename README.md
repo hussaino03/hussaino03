@@ -9,7 +9,7 @@
 const Hussain = {
 	school: "University of Toronto",
 	year: "Second-year",
-	program: "Computer Science",
+	program: "Computer Science and Statistics",
 	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
