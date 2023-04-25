@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/intro.gif" alt="👋 Hey! I'm Hussain Omer | https://hussaino.com/" title="👋 Hey! I'm Hussain Omer | https://hussaino.com/"/>](https://www.hussaino.com/)
+[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/Intro.gif" alt="👋 Hey! I'm Hussain Omer | https://hussaino.com" title="👋 Hey! I'm Hussain Omer | https://hussaino.com/"/>](https://www.hussaino.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=plastic" alt="Visitors" /> </p>
 
