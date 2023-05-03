@@ -10,13 +10,14 @@ const Hussain = {
 	school: "University of Toronto",
 	year: "Second-year",
 	program: "Computer Science and Statistics",
-	goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
+	prevWorkExperience: ["Deloitte", "Photon Commerce", "Major League Hacking (MLH)", "GeeksforGeeks"],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 	},
-	askMeAbout: ["Web Development", "Machine Learning"]
+	askMeAbout: ["Full-stack Development", "Machine Learning"]
 }
 ```
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="260" />
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -38,15 +39,6 @@ const Hussain = {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="250" />
-
-
-## 🤔 What I am Up To
-
-- 🔭 I'm currently working on a next.js application
-- 🌱 I'm currently learning Machine Learning and its applications
-- 👯 I'm Looking to collaborate with other developers to design meaningful projects
 
 ## 📫 Contact Me:
 You can reach me at the following platforms linked below!
