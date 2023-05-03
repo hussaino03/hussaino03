@@ -41,6 +41,13 @@ const Hussain = {
 
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="250" />
 
+
+## 🤔 What I am Up To
+
+- 🔭 I'm currently working on a next.js application
+- 🌱 I'm currently learning Machine Learning and its applications
+- 👯 I'm Looking to collaborate with other developers to design meaningful projects
+
 ## 📫 Contact Me:
 You can reach me at the following platforms linked below!
 
