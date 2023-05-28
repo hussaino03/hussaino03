@@ -17,7 +17,7 @@ const Hussain = {
 	askMeAbout: ["Full-stack Development", "Machine Learning"]
 }
 ```
-<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/intro-2.gif" width="480" height="360" />
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/coding.gif" width="380" height="260" />
 
 ### 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
