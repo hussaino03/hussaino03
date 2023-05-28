@@ -3,7 +3,10 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=for-the-badge" alt="Visitors" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	 <a href="https://www.linkedin.com/in/hussainomer/" target="_blank">
+  <img src="https://img.shields.io/badge/Hussain Omer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		 <a href="mailto:hussain.omer@mail.utoronto.ca" target="_blank">
+	<img src="https://img.shields.io/badge/hussain.omer@mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 
@@ -42,13 +45,7 @@ const Hussain = {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-### 📫 Contact Me:
-You can reach me at the following platforms linked below!
-
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/linkedin.png" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/hussain-omer-551893203/)
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/instagram.svg" height="40em" align="center" alt="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" title="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](https://www.instagram.com/h.s.z_11/)
-[<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/socials/gmail.png" height="45em" align="center" alt="Email Hussain" title="Email Hussain"/>](mailto:m.hussainomer03@gmail.com)
+	
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
