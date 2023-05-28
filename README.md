@@ -50,7 +50,7 @@ You can reach me at the following platforms linked below!
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hussaino03&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hussaino03&column=4&margin-w=5&margin-h=5&theme=darkhub&row=2"/>
   </a>
 </p>
 </details>
