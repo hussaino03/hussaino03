@@ -19,7 +19,7 @@ const Hussain = {
 	school: "University of Toronto",
 	year: "Second-year",
 	program: "Computer Science and Statistics",
-	WorkExperience: ["Deloitte", "RBC", "Photon Commerce", "Major League Hacking (MLH)"],
+	WorkExperience: ["Wealthsimple", "Deloitte", "RBC", "Photon Commerce", "Major League Hacking (MLH)"],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 	},
