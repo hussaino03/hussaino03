@@ -1,15 +1,6 @@
 [<img src="https://raw.githubusercontent.com/hussaino03/hussaino03/master/Intro.gif" alt="👋 Hey! I'm Hussain Omer | https://hussaino.com" title="👋 Hey! I'm Hussain Omer | https://hussaino.com/"/>](https://hussaino.com/)
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://komarev.com/ghpvc/?username=hussain03&label=Views&color=blue&style=flat" alt="Visitors" />
-	 <a href="https://www.linkedin.com/in/hussainomer/" target="_blank">
-  <img src="https://img.shields.io/badge/Hussain Omer-0077B5?style=flat&logo=linkedin&logoColor=white" />
-		 <a href="mailto:hussain.omer@mail.utoronto.ca" target="_blank">
-	<img src="https://img.shields.io/badge/hussain.omer@mail.utoronto.ca-D14836?style=flat&logo=gmail&logoColor=white"/>		 
-</div>
-
-
 ### :book: About Me 
 
 ```javascript
