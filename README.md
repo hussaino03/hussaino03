@@ -26,3 +26,6 @@ const Hussain = {
 	askMeAbout: ["Full-stack Development", "Machine Learning"]
 }
 ```
+### 📊 GitHub Stats
+
+<a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a> 
