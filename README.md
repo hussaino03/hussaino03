@@ -10,7 +10,7 @@
 ```javascript
 const Hussain = {
 	school: "University of Toronto",
-	year: "Second-year",
+	year: "third-year",
 	program: "Computer Science and Statistics",
 	WorkExperience: ["Wealthsimple", "Deloitte", "RBC", "Photon Commerce", "Major League Hacking (MLH)"],
 	techCommunities: {
