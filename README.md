@@ -7,7 +7,7 @@
 			 
 ### :book: About Me 
 
-- Hey! I'm Hussain, a 3rd year CS & Stats student at the University of Toronto.
+- 3rd year CS & Stats student at the University of Toronto.
 - To date, my software engineering work experience includes 5 internships and one contract part-time position with roles in full-stack, payment solutions, security, cloud, and software solutions/project management.
 - I'm also a student ambassador @ Microsoft aiming to give back to the tech community.
 
