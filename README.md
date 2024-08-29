@@ -5,13 +5,5 @@
 	<img src="https://img.shields.io/badge/hussain.omer@mail.utoronto.ca-D14836?style=flat&logo=gmail&logoColor=white"/>		 
 </div>
 			 
-### :book: About Me 
-
-- 3rd year CS & Stats student at the University of Toronto.
-- To date, my software engineering work experience includes 5 internships and one contract part-time position with roles in full-stack, payment solutions, security, cloud, and software solutions/project management.
-- I'm also a student ambassador @ Microsoft aiming to give back to the tech community.
-
-Currently, seeking opportunities in ML Infra!
-
 | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://readme-stats-omega-two.vercel.app/api?username=hussaino03&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_rank=true&hide=contribs" alt="Hussain's github stats" /></a> | <a href="https://github.com/hussaino03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a> |
 | ------------- | ------------- |
